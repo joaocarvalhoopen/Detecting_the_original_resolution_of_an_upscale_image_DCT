@@ -1,7 +1,7 @@
 # How to determine the original resolution of an upscale image?
 
 ## Objective 
-The objective of this notebook is to divulgate the general method of finding the original resolution of an upscale image or video. I will try to show you with images.
+The objective of this notebook is to divulgate a general method of finding the original resolution of an upscale image or video. I will try to show you with images.
 
 
 ## The story
