@@ -35,6 +35,7 @@ My simple detection method is to just sum the absolute values of each row and ea
 ## References
 * [GitHub - 0x09 – resdet - Detect source resolution of upscale images](https://github.com/0x09/resdet)
 * [Docs of imageio](https://imageio.readthedocs.io/en/stable/examples.html)
+* [Wikipedia - Discrete cosine transform](https://en.wikipedia.org/wiki/Discrete_cosine_transform)
 * [Using the SciPy DCT function to create a 2D DCT-II](https://stackoverflow.com/questions/15978468/using-the-scipy-dct-function-to-create-a-2d-dct-ii)
 * [Numpy Resize/Rescale Image](https://stackoverflow.com/questions/48121916/numpy-resize-rescale-image)
 
