@@ -21,7 +21,7 @@ So I started to implement a simple version just to play with the concept and com
 ## The method used
 My simple detection method is to just sum the absolute values of each row and each column and find the lower ones. My method like the method described in the above project 0x09/resdet, works best with uncompressed images that are then upscale.
 
-##  Please click on the notebook file to see a visual explanation of the algorithm
+## Please click on the notebook file to see a visual explanation of the algorithm
 [Notebook](./original_resolution_of_upscalled_image.ipynb)
 
 ## Image of the 2D DCT transform see the row and column 512 of this 768 upscale image
